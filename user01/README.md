@@ -5,7 +5,7 @@
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-<img width="793" height="555" alt="image" src="https://github.com/user-attachments/assets/0d8a5408-fdd4-4152-80dd-520d3e9a6435"/>
+![CLI 실행 화면](./CLI.png)
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
